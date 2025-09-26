@@ -29,12 +29,12 @@
 ### Missing Values
 
 ##### Incomplete scores in Python and DB.
-###### Missing categories in gender or country.
+##### Missing categories in gender or country.
 
 ### Outliers
 
 ##### Unrealistic values in studyHOURS (e.g., > 70 hours/week).
-###### Invalid exam scores outside the 0–100 range.
+##### Invalid exam scores outside the 0–100 range.
 
 ## Data Cleaning Steps
 ### Part 1 – Data Cleaning
