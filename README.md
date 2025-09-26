@@ -1,7 +1,7 @@
-Student Dataset – Data Cleaning & Preprocessing Project
-Project Overview
+# Student Dataset – Data Cleaning & Preprocessing Project
+## Project Overview
 
-This project uses a Student Dataset to demonstrate the essential steps of data preprocessing, including:
+### This project uses a Student Dataset to demonstrate the essential steps of data preprocessing, including:
 
 Data Cleaning
 Handling Missing Values
